@@ -1,0 +1,1 @@
+A Telegram bot for following Twitter accounts, written in Python
